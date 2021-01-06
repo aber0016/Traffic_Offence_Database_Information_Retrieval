@@ -1,1 +1,3 @@
-# Traffic_Offence_Database_Information_Retrieval
+# Traffic_Offence_SQL_Database
+
+This project uses SQL commands for data manipulation, data retrieval and database design modifications. The database in use records information on "on-the-spot" traffic offences incurred by drivers by using 6 relational tables.
