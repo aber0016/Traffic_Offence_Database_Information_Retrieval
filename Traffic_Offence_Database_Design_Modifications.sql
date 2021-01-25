@@ -1,5 +1,7 @@
 /* 
-FIT9132 - Assignment 2 - TASK 3 - Armin Berger
+
+Traffic_Offence_Database_Design_Modifications
+Author: Armin Berger
 First created: 20/05/2020
 Last edited: 10/06/2020 
 
